@@ -12,6 +12,7 @@ import br.usjt.arqsw.entity.Usuario;
  * @author Thiago Barbosa Palma 816117515
  * 
  *
+ *
  */
 public class AutorizadorInterceptor extends HandlerInterceptorAdapter{
 
